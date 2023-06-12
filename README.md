@@ -11,6 +11,6 @@ Technologies
 3. Scss
 4. HTML
 
-Link
+Link [Demo](https://khreptunyevhen.github.io/change-color/)
 
 ![Change color app](./src/image/change-color.png)
