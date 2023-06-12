@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/change-color/static/css/main.1475410a.css",
+    "main.js": "/change-color/static/js/main.2a9033fc.js",
+    "index.html": "/change-color/index.html",
+    "main.1475410a.css.map": "/change-color/static/css/main.1475410a.css.map",
+    "main.2a9033fc.js.map": "/change-color/static/js/main.2a9033fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1475410a.css",
+    "static/js/main.2a9033fc.js"
+  ]
+}
